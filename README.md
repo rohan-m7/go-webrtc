@@ -18,7 +18,7 @@
 ## **Installation** 📦
 
 ```sh
- go get github.com/yourusername/go-webrtc
+ go get github.com/rohan-m7/go-webrtc
 ```
 
 ---
@@ -30,7 +30,7 @@ package main
 
 import (
     "log"
-    "github.com/yourusername/go-webrtc"
+    "github.com/rohan-m7/go-webrtc"
 )
 
 func main() {
